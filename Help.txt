@@ -1,0 +1,10 @@
+Fake server uisng variable which holds an array of json objects for the todos.
+
+Routes:
+1. GET /api/v1/
+
+2. GET /api/v1/todos
+3. GET /api/v1/todos/:id
+4. POST /api/v1/todos
+5. PUT /api/v1/todos/:id
+6. DELETE /api/v1/todos/:id
